@@ -1,4 +1,7 @@
-## ABOUT ME ~
+# ABOUT ME ~
+
+## HI, I'm Debosmit :)
+
 <b> I'm a <u> COMPUTER SCIENCE </u> undergrad student. I'm a wannabe software developer and a noob competititve programmer.</b>
 
 ## <br> LANGUAGES AND TOOLS I KNOW ~
