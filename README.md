@@ -1,5 +1,5 @@
 ## ABOUT ME ~
- I'm a computer science undergrad student. I'm a wannabe software developer and a noob competititve programmer.</center>
+<b> I'm a <i>COMPUTER SCIENCE</i> undergrad student. I'm a wannabe software developer and a noob competititve programmer.</b>
 
 ## <br> LANGUAGES AND TOOLS I KNOW ~
 
